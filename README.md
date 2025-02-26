@@ -16,10 +16,15 @@ An AI-powered chatbot built using HTML, CSS, and JavaScript, integrated with the
 
 
 🛠 Technologies Used
+
 Frontend: HTML, CSS, JavaScript
+
 API: Google Gemini API
 
 📌 Future Enhancements
+
 Add voice input support
+
 Improve UI/UX with animations
+
 Store chat history for better context handling
